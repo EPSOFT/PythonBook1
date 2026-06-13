@@ -28,7 +28,7 @@
 | فصل | موضوع | وضعیت | لینک |
 |------|--------|--------|------|
 | 01 | برنامه نویسی پایتون | ✅ | [فصل ۱](./chapters/01_introduction/) |
-| 02 | مفاهیم پایه پایتون | ✅ | [فصل ۲](./chapters/02_python_basics/) |
+| 02 | بکارگیری ساختار کنترل و حلقه | ✅ | [فصل ۲](./chapters/02_python_basics/) |
 | 03 | کتابخانه‌های NumPy و Pandas | ✅ | [فصل ۳](./chapters/03_numpy_pandas/) |
 | 04 | مصورسازی داده (Matplotlib & Seaborn) | ✅ | [فصل ۴](./chapters/04_visualization/) |
 | 05 | یادگیری ماشین مقدماتی (Scikit-learn) | ✅ | [فصل ۵](./chapters/05_ml_basics/) |
