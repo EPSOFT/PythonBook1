@@ -31,7 +31,7 @@
 | 02 | بکارگیری ساختار کنترل و حلقه | ✅ | [فصل ۲](./chapters/02_python_basics/) |
 | 03 | بکارگیری توابع و ماژول | ✅ | [فصل ۳](./chapters/03_numpy_pandas/) |
 | 04 | بکارگیری ساختار داده | ✅ | [فصل ۴](./chapters/04_visualization/) |
-| 05 | یادگیری ماشین مقدماتی (Scikit-learn) | ✅ | [فصل ۵](./chapters/05_ml_basics/) |
+| 05 | برنامه نویسی شی گرا | ✅ | [فصل ۵](./chapters/05_ml_basics/) |
 | 06 | رگرسیون و طبقه‌بندی | ✅ | [فصل ۶](./chapters/06_regression_classification/) |
 | 07 | شبکه‌های عصبی و Deep Learning | 🔄 | [فصل ۷](./chapters/07_neural_networks/) |
 | 08 | پردازش زبان طبیعی (NLP) | 🔄 | [فصل ۸](./chapters/08_nlp/) |
