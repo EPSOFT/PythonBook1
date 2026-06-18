@@ -33,7 +33,7 @@
 | 04 | بکارگیری ساختار داده | ✅ | [فصل ۴](./chapters/04_visualization/) |
 | 05 | برنامه نویسی شی گرا | ✅ | [فصل ۵](./chapters/05_ml_basics/) |
 | 06 | مدیریت خطا و استنثنات | ✅ | [فصل ۶](./chapters/06_regression_classification/) |
-| 07 | بکارگیری ورودی و خروجی | 🔄 | [فصل ۷](./chapters/07_neural_networks/) |
+| 07 | بکارگیری ورودی و خروجی فایل | 🔄 | [فصل ۷](./chapters/07_neural_networks/) |
 | 08 | پردازش زبان طبیعی (NLP) | 🔄 | [فصل ۸](./chapters/08_nlp/) |
 | 09 | پروژه نهایی | 🚧 | [پروژه نهایی](./projects/final_project/) |
 
