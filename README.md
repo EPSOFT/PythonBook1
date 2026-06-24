@@ -35,7 +35,7 @@
 | 06 | مدیریت خطا و استنثنات | ✅ | [فصل ۶](./chapters/06_regression_classification/) |
 | 07 | بکارگیری ورودی و خروجی فایل | 🔄 | [فصل ۷](./chapters/07_neural_networks/) |
 | 08 | عبارات منظم و دستکاری رشته ها| 🔄 | [فصل ۸](./chapters/08_nlp/) |
-| 09 | پروژه نهایی | 🚧 | [پروژه نهایی](./projects/final_project/) |
+| 09 | کار با کتابخانه های خارجی | 🚧 | [پروژه نهایی](./projects/final_project/) |
 
 ---
 
