@@ -1,4 +1,4 @@
-# 🤖 هوش مصنوعی با پایتون (مقدماتی)- درحال بروز رسانی
+# 🤖 هوش مصنوعی با پایتون (مقدماتی)- منتشر شد !
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
