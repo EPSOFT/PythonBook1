@@ -4,6 +4,13 @@
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![GitHub](https://img.shields.io/github/license/yourusername/ai-with-python-intro?style=for-the-badge)
 
+<br>
+
+<img src="https://raw.githubusercontent.com/EPSOFT/PythonBook1/main/PYWITHPY.jpg" alt="جلد کتاب هوش مصنوعی با پایتون" width="400"/>
+
+<br>
+<br>
+
 **مجموعه کدهای کتاب «هوش مصنوعی با پایتون - مقدماتی»**
 
 این ریپازیتوری تمام مثال‌ها، تمرین‌ها و پروژه‌های کتاب را به صورت مرتب و قابل اجرا در اختیار شما قرار می‌دهد.
