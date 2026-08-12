@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/github/license/yourusername/ai-with-python-intro?style=for-the-badge)
 
 <br> 
-  
+   
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/EPSOFT/PythonBook1/main/PYWITHPY.jpg" alt="جلد کتاب هوش مصنوعی با پایتون" width="400"/>
 </div>
