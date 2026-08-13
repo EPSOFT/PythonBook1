@@ -4,7 +4,7 @@
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![GitHub](https://img.shields.io/github/license/yourusername/ai-with-python-intro?style=for-the-badge)
 
-<br> 
+<br>  
    
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/EPSOFT/PythonBook1/main/PYWITHPY.jpg" alt="جلد کتاب هوش مصنوعی با پایتون" width="400"/>
