@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![GitHub](https://img.shields.io/github/license/yourusername/ai-with-python-intro?style=for-the-badge)
-
+ 
 <br>  
    
 <div align="center"> 
